@@ -48,6 +48,7 @@ The **Summary Dashboard** delivers high-level performance metrics (KPIs) crucial
    * Includes trend comparisons to monitor risk patterns
 
  🖼️ Summary Dashboard Snapshots:
+ 
 ![summary dashboard](https://github.com/user-attachments/assets/b300da3d-a4da-4fdf-acdc-c144c8d4db32)
 
 ---
@@ -102,6 +103,7 @@ This dashboard acts as the **control center** for strategic decision-making.
 
 
  🖼️ Overview Dashboard Snapshots:
+ 
 ![overivew dashboard](https://github.com/user-attachments/assets/2ebe369d-233d-4803-800a-880ee99c330a)
 
 ---
@@ -120,6 +122,8 @@ The **Details Dashboard** gives a closer look at borrower behavior, demographic 
 All visuals include metrics like **Applications, Funded Amount, and Amount Received** for contextual insights.
 
 ## 📋 Details Dashboard – Executive Summary
+
+🖼️ Details Dashboard Snapshots:
 
 ![Details Dashboard](https://github.com/user-attachments/assets/a6224471-546c-4b19-b35f-055bf282c0db)
 
