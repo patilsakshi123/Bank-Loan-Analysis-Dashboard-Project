@@ -1,4 +1,4 @@
-## 🧩 Problem Statement – Bank Loan Analysis (BI Dashboard Project)
+# 🧩 Problem Statement – Bank Loan Analysis (BI Dashboard Project)
 
 This project is designed to provide a comprehensive analytical view of a bank's loan portfolio through an interactive, SQL-backed Power BI dashboard. The primary objective is to help stakeholders monitor **loan performance**, assess **borrower profiles**, and evaluate **risk** across various dimensions.
 
